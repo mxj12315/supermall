@@ -15,6 +15,7 @@ export default {
 </script>
 
 <style>
+@import './assests/css/base.css';
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
